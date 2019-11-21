@@ -1,0 +1,14 @@
+pull
+
+1. git pull origin master 
+해당 레포지토리에서 끌어옴
+
+push
+
+2.git status 싱크 상태 체크
+
+3.git add 로컬폴더와 트레킹
+
+4.git commit -m "message"
+
+5.git push origin +master 깃에 push
