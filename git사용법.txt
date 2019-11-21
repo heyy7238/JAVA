@@ -5,9 +5,9 @@ pull
 
 push
 
-2.git status 싱크 상태 체크
+2.git status 싱크 상태 체크 (트래킹 안된파일)
 
-3.git add 로컬폴더와 트레킹
+3.git add . 로컬폴더와 트레킹
 
 4.git commit -m "message"
 
